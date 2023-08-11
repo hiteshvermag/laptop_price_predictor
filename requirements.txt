@@ -26,6 +26,7 @@ itsdangerous==1.1.0
 jedi==0.18.0
 Jinja2==2.11.3
 joblib==1.0.1
+streamlit
 jsonschema==3.2.0
 jupyter==1.0.0
 jupyter-client==6.1.11
